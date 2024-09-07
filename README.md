@@ -33,4 +33,4 @@ portfolio.plot_cumulative_returns("2023-03-23", "2024-09-05")
 
 ```
 ## Example Plots
-![cumulative_returns](https://github.com/user-attachments/assets/26d3529c-989a-4092-89f5-e85ab40464ee)
+![cumulative_returns](https://github.com/user-attachments/assets/960ffe23-a879-4020-8cd6-accb680b9e83)
