@@ -10,7 +10,7 @@ This project provides a Python tool for analyzing and visualizing the cumulative
 - **Cumulative Return Plot:** Visualize the cumulative returns of your portfolio over a specified time period.
 
 ## Usage
-```
+```python
 from portfolio import Portfolio, Stock
 
 # Create a portfolio with some stocks
